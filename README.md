@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [arihantjain.vercel.app](arihantjain.vercel.app)
+- 👨‍💻 All of my projects are available at [arihant.us](arihant.us)
 
 - 📫 How to reach me **jainari1208@gmail.com**
 
