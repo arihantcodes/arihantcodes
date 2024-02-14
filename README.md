@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://arihant.us/](arihant.us)
+- 👨‍💻 All of my projects are available at [https://arihant.us/](https://arihant.us/)
 
 - 📫 How to reach me **jainari1208@gmail.com**
 
