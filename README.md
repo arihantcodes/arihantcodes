@@ -24,11 +24,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihantdotcom&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="200"><br/>
-
-
-![](https://github-readme-stats.vercel.app/api?username=arihantdotcom&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arihantdotcom&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" width="400" height="200">
+![arihantdotcom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantdotcom&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![arihantdotcom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arihantdotcom&theme=tokyonight&hide_border=true)
+![arihantdotcom's Stats](https://github-readme-stats.vercel.app/api?username=arihantdotcom&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
