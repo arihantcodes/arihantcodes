@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arihantdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/arihantdotcom?logo=twitter&style=for-the-badge" alt="arihantdotcom" /></a> </p>
 
--
+
 
 - 👨‍💻 All of my projects are available at [https://arihant.us/](https://arihant.us/)
 
