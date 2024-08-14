@@ -24,7 +24,5 @@
 
 # 📊 GitHub Stats:
 
-![arihantdotcom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantdotcom&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![arihantdotcom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arihantdotcom&theme=tokyonight&hide_border=true)
-![arihantdotcom's Stats](https://github-readme-stats.vercel.app/api?username=arihantdotcom&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![arihantcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantcodes&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
