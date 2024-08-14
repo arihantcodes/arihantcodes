@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantcodes&label=Profile%20views&color=0e75b6&style=flat" alt="arihantdotcom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantdotcom&label=Profile%20views&color=0e75b6&style=flat" alt="arihantdotcom" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=arihantcodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
