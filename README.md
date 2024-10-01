@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-![arihantcodes's Stats](https://github-readme-stats.vercel.app/api?username=arihantcodes&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![arihantcodes's Stats](https://github-readme-stats.vercel.app/api?username=arihantcodes&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 ![arihantcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantcodes&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
