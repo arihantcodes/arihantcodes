@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 
 
-
-
 <p align="left"> <a href="https://twitter.com/arihantcodes" target="blank"><img src="https://img.shields.io/twitter/follow/arihantcodes?logo=twitter&style=for-the-badge" alt="arihantcodes" /></a> </p>
 
 
