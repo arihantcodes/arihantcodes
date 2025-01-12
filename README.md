@@ -5,9 +5,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://arihant.us/](https://arihant.us/)
+- 👨‍💻 All of my projects are available at [https://arihantcodes.in/](https://arihantcodes.in/)
 
-- 📫 How to reach me **jainari1208@gmail.com**
+- 📫 How to reach me **hey@arihantcodes.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
