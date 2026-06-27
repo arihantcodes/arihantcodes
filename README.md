@@ -11,7 +11,7 @@ Stuff I use: TypeScript, React 19, Next.js, Tailwind,Framer Motion.
 
 Find me here:
 
-🌐 [arihantcodes.in](https://arihantcodes.com)
+🌐 [arihantcodes.com](https://arihantcodes.com)
 
 💼 [LinkedIn](https://linkedin.com/in/arihantcodes)
 
