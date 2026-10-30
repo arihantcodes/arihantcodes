@@ -4,7 +4,7 @@ I'm a design engineer. I can design and build, so I can take an idea all the way
 
 here's something I made that you can check out:
 
- [Spectrum UI](https://github.com/arihantcodes/spectrum-ui) is 250+ ready to use React components. 1k+ stars.
+ [Spectrum UI](https://github.com/arihantcodes/spectrum-ui) is 250+ ready to use React components. 1.5k+ stars.
 
 Stuff I use: TypeScript, React 19, Next.js, Tailwind, Framer Motion, Figma
 
